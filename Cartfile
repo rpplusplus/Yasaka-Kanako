@@ -1,2 +1,4 @@
 github "Alamofire/Alamofire" ~> 4.3
+github "tid-kijyun/Kanna"
+github "ReactiveX/RxSwift" ~> 3.0
 
